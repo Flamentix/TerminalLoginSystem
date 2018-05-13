@@ -12,14 +12,13 @@ git clone https://github.com/Flamentix/TerminalLoginSystem
 
 
 
-Usage:
-\n_
+Usage_
 For Windows:
 ```bash
 cd TerminalLoginSystem
 py main.py
 ```
-
+Usage_
 For Apple:
 ```bash
 cd TerminalLoginSystem
