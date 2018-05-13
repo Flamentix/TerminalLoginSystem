@@ -13,7 +13,7 @@ git clone https://github.com/Flamentix/TerminalLoginSystem
 
 
 Usage:
-_
+\n_
 For Windows:
 ```bash
 cd TerminalLoginSystem
