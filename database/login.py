@@ -41,4 +41,4 @@ def CheckLogin(username, password):
     except (KeyError):
         return False
 
-#Make yourself sound Smart
+#Make yourself sound smart
